@@ -5,7 +5,7 @@ I build data-driven and AI-powered applications, and I'm currently looking for r
 - 🔍 SQL + statistics for real analysis: fraud detection, A/B testing, funnel analysis
 - 🤖 AI/ML engineering beyond calling an API: RAG built from scratch, an MCP tool-calling agent
 - 🧱 Comfortable across the stack: Python for data/AI work, SQL, TypeScript/React for interfaces, Excel/Power BI/Tableau for BI
-- 📫 Reach me at: [add your email or LinkedIn here]
+- 📫 Reach me at: [dhandashreya@gmail.com or www.linkedin.com/in/shreya-dhanda]
 
 ---
 
