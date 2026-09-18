@@ -39,11 +39,23 @@ An interactive Excel workbook — formula-driven (SUMIFS/INDEX-MATCH), dropdown-
 Power BI and Tableau dashboard builds with verified datasets and exact build guides.
 `Power BI` `Tableau`
 
+### [Urban Mobility Dashboard](https://github.com/dhandashreya/urban-mobility-dashboard)
+EDA on 104K Edmonton pedestrian/cyclist sensor readings, a Streamlit dashboard with map/trends/seasonality views, and YOLOv8 pedestrian/cyclist detection from video or webcam.
+`Python` `Streamlit` `YOLOv8` `Computer Vision`
+
+### [Canada Labour Market & Immigration Analysis](https://github.com/dhandashreya/CanadaImmigration)
+Merges Statistics Canada Labour Force Survey data with IRCC permanent-resident admissions by province to explore how immigration tracks labour market conditions.
+`Python` `Pandas` `Jupyter`
+
 ## 🚀 Other Projects
 
 ### [Ledger](https://github.com/dhandashreya/ledger)
 A manual clock-in/clock-out time-tracking app with weekly targets, analytics (trends, streaks, CSV export), and an optional Google Calendar import.
 `TypeScript` `React` `Vite` `Recharts` — [Live demo](https://ledger-murex-five.vercel.app)
+
+### [MoodMap](https://github.com/dhandashreya/MoodMap)
+Pick a mood and who you're with, and MoodMap suggests places in your city to go — logs visits with photos and builds a history per user.
+`Python` `Streamlit` `Google Places API` `SQLite`
 
 ### [SheCodesPrivate](https://github.com/dhandashreya/SheCodesPrivate)
 A privacy-preserving career-guidance chatbot for girls aged 12–19, built for the GDG Cloud Edmonton IWD 2025 hackathon. Uses Google Gemini for conversational guidance and Aleo zero-knowledge proofs for private age verification.
@@ -53,4 +65,4 @@ A privacy-preserving career-guidance chatbot for girls aged 12–19, built for t
 
 ## 🛠️ Tech I've worked with
 
-`Python` · `SQL` · `TypeScript` · `React` · `scikit-learn` · `statsmodels` · `Excel` · `Power BI` · `Tableau` · `Google Gemini API` · `MCP` · `Pandas` · `Vite`
+`Python` · `SQL` · `TypeScript` · `React` · `scikit-learn` · `statsmodels` · `Excel` · `Power BI` · `Tableau` · `Google Gemini API` · `MCP` · `Pandas` · `Vite` · `Streamlit` · `YOLOv8`
