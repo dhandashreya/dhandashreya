@@ -12,11 +12,11 @@ I build data-driven and AI-powered applications, and I'm currently looking for r
 ## 🚀 Data & AI Projects
 
 ### [Fraud Detection Engine](https://github.com/dhandashreya/fraud-detection-engine)
-SQL analysis + a Random Forest classifier on imbalanced transaction data — 94% recall, PR-AUC 0.938, evaluated on precision/recall rather than accuracy.
-`Python` `SQL` `scikit-learn`
+SQL + ML fraud-detection pipeline with a temporal train/test split, cost-based decision thresholding, and SHAP explainability — 94% recall / 0.93 PR-AUC on synthetic transaction data, validated at 0.81 PR-AUC on the real-world ULB credit-card dataset.
+`Python` `SQL` `scikit-learn` `SHAP`
 
 ### [Product Analytics](https://github.com/dhandashreya/product-analytics)
-Funnel analysis + an A/B test on a checkout redesign, with a real two-proportion z-test and power analysis (+19.9% lift, p=1.95e-21).
+Funnel analysis + an A/B test on a checkout redesign, with an SRM guardrail, a two-proportion z-test, CUPED variance reduction, and an mSPRT sequential test for safe early stopping (+16.0% lift, p=1.2e-14).
 `Python` `SQL` `statsmodels`
 
 ### [Excel Anomaly-Detection Agent](https://github.com/dhandashreya/excel-anomaly-agent)
